@@ -4,6 +4,10 @@ using System.Net;
 using System.Text;
 using System.Collections.Generic;
 
+// A basic UDP server for handling generic messages broadcast between clients.
+// Sean Rea
+// 2017
+
 namespace UDPServer
 {
     class User
